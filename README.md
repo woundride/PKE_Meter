@@ -6,6 +6,10 @@
 
 Active Directory Powershell module is needed.
 
+## Releases
+
+Executable version is available here : https://github.com/woundride/PKE_Meter/releases
+
 ## Description
 
 PKE Meter is an automated Powershell script to search "ghosts" and extract objects from Active Directory.
