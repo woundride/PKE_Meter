@@ -22,7 +22,7 @@ You can easily extract some objects from AD by category.
 
 ## Signature
 
-I invite you to verify sum and signature.
+I invite you to verify sums and signatures.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
