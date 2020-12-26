@@ -24,7 +24,7 @@ You can easily extract some objects from AD by category.
 
 I invite you to verify sum and signature.
 
-...
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF/m+7ABEADjw+zlED3EqX9oERjs5bguAmnmJ2zvPn70YM4s/1qwA5GdIPn/
@@ -54,4 +54,4 @@ T+dz5IGIQspK9NJuuJFjMPetzW6tS0mEsOfblTo76H7unV/y7DNzvD5kfFnnW4Ks
 Uz6jArgAMkPX
 =MFnR
 -----END PGP PUBLIC KEY BLOCK-----
-...
+```
