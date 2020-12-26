@@ -20,6 +20,10 @@ You can easily extract some objects from AD by category.
 
 <p align="center"><img src="/img/users_menu_exe.jpg"></p>
 
+Exports are made in csv or txt format.
+
+<p align="center"><img src="/img/windows10_export.jpg"></p>
+
 ## Signature
 
 I invite you to verify sums and signatures.
