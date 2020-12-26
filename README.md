@@ -75,4 +75,4 @@ The Psycho Kinectic Energy Meter (P.K.E. Meter) was one of the Ghostbusters tool
 
 ## Author
 
-Charles BLANC-ROLIN
+Charles BLANC-ROLIN - https://www.apssis.com/
