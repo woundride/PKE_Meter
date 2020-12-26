@@ -55,3 +55,16 @@ Uz6jArgAMkPX
 =MFnR
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+## Licence
+
+PKE Meter has been released under CC BY-NC-SA 4.0 :
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+## Why PKE Meter ?
+
+The Psycho Kinectic Energy Meter (P.K.E. Meter) was one of the Ghostbusters tools invented by Dr. Egon Spengler that enabled them to track ghosts and other entities.
+
+## Author
+
+Charles BLANC-ROLIN
