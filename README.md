@@ -73,6 +73,10 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 The Psycho Kinectic Energy Meter (P.K.E. Meter) was one of the Ghostbusters tools invented by Dr. Egon Spengler that enabled them to track ghosts and other entities.
 
+## About PKE Meter (in 🇫🇷)
+
+https://www.apssis.com/actualite-ssi/516/partez-a-la-chasse-aux-fantomes-dans-vos-annuaires-active-directory.htm
+
 ## Author
 
 Charles BLANC-ROLIN - https://www.apssis.com/
