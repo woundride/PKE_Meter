@@ -1,3 +1,34 @@
+PKE Meter V1.7 (2021/10/09) :
+
+- Deprecated OS :
+
+Windows 10 1803 Enterprise / Education
+Windows 10 1809 Enterprise / Education
+
+- Added OS :
+
+Windows Server 2022
+Windows 11 21H2
+Windows 11 21H2 Enterprise / Education
+
+- EmployeeID property added for : 
+
+Inactive user(s) (not been connected for more than 3 months)
+Inactive user(s) (not been connected for more than 6 months)
+Never connected user(s)
+All enabled user accounts that never exire
+Disabled user(s)
+All expired user accounts (not disabled)
+All users whose password never expire
+Users who cannot change their password
+Users with mailbox
+Users without mailbox
+Password last set for all users accounts (enabled)
+Password last set for a specific user account
+Last logon date for a specific user account
+
+- New search : Search user by EmployeeID
+
 PKE Meter V1.6 (2021/06/19) :
 
 Export for all users modified to have only not expired user accounts
