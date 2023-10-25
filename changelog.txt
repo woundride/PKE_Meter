@@ -3,7 +3,7 @@ PKE Meter V1.15 (2023/10/25) :
 - New Features :
 
 Administrator Account(s) [in administrator group] without adminCount = 1
-22 - Check inheritance ACL for a specific user
+Check inheritance ACL for a specific user
 
 PKE Meter V1.14 (2023/10/23) :
 
