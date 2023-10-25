@@ -1,2 +1,0 @@
-bbf498a4afe967514477ef096ca68fa84680e45e05b00dc2d424bae1c1ca5577  pke_meter.ps1
-e07a9937aee0ee994cf42f75a1b97df557f44c14dcf801cfc8cad3d7e59f4780  pke_meter_v1-15.exe
